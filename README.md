@@ -82,6 +82,7 @@ If you have any questions, feedback, or collaboration ideas, feel free to reach 
 - **Email**: [mohamedmahmoud2682003@gmail.com](mailto:mohamedmahmoud2682003@gmail.com)  
 - **WhatsApp**: [+20 109 643 3244](https://wa.me/201096433244)
 - **Kaggle**:  https://www.kaggle.com/mohamedmahmoud111
+- **Linkedin**: https://www.linkedin.com/in/mohamed-mahmoud26/
 ## Getting Started
 
 1. Clone the repository:
