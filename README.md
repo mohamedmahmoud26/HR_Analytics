@@ -34,7 +34,6 @@ You can also explore this project directly on Kaggle:
 | Language             | Python                               |
 | Data Handling        | pandas, numpy                        |
 | Visualization        | seaborn, matplotlib, plotly          |
-| Model Preparation    | scikit-learn (for preprocessing)     |
 | Notebook Environment | Jupyter Notebooks                    |
 
 ---
