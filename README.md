@@ -15,7 +15,7 @@ Dataset Source: [Kaggle - Job Change of Data Scientists](https://www.kaggle.com/
 
 You can also explore this project directly on Kaggle:
 
-🔗 [HR Analytics – Job Change Prediction on Kaggle](https://www.kaggle.com/code/mohamedmahmoud111/hr-analytics)
+ [HR Analytics – Job Change Prediction on Kaggle](https://www.kaggle.com/code/mohamedmahmoud111/hr-analytics)
 ---
 ## Objectives
 
